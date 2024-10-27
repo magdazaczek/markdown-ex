@@ -64,7 +64,7 @@ This is a text with `void` code phrase.
 
 This is a code block: 
 
-```
+```js
 {
   "firstName": "John",
   "lastName": "Smith",
