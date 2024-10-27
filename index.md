@@ -4,7 +4,9 @@
   - [Quote](#quote)
   - [Code and formulas](#code-and-formulas)
     - [Code phrase](#code-phrase)
+    - [Formula](#formula)
     - [Code block](#code-block)
+    - [Formula block](#formula-block)
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
@@ -60,6 +62,11 @@ This is ano
 
 This is a text with `void` code phrase.
 
+
+#### Formula
+
+This is a formula $a+b=c$
+
 #### Code block
 
 This is a code block: 
@@ -71,6 +78,12 @@ This is a code block:
   "age": 25
 }
 ```
+
+#### Formula block
+
+$$
+a+b=c
+$$
 
 
 ## Linking elements
