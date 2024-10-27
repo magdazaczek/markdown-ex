@@ -91,19 +91,19 @@ Link to file example [Additional information](reference.md)
 
 ## Tables
 
-| Column | Column Two | Column Three |
-| ------ | ---------- | ------------ |
-| Row 1 | Row 2| Row 3|
-| Long text| Long text| Another very long sentence |
-| Sample text | Sample text two | Sample threeeeeeee | 
+| Column      | Column Two      | Column Three               |
+| ----------- | --------------- | -------------------------- |
+| Row 1       | Row 2           | Row 3                      |
+| Long text   | Long text       | Another very long sentence |
+| Sample text | Sample text two | Sample threeeeeeee         |
 
 
 
-| Tabele        | są                  | fajne |
-| ------------- |:-------------------:| -----:|
+| Tabele        |         są          | fajne |
+| ------------- | :-----------------: | ----: |
 | kol 3 jest    | wyrównana do prawej | $1600 |
-| kol 2 jest    | wycentrowana        |   $12 |
-| wierzez zebra | są fajne            |    $1 |
+| kol 2 jest    |    wycentrowana     |   $12 |
+| wierzez zebra |      są fajne       |    $1 |
 
 Test sentence
 
