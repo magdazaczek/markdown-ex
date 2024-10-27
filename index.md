@@ -47,4 +47,18 @@ This is a code block:
 ```
 
 
+## Linking elements
+
+### Links to content
+
+#### External
+
+[Weather forecast](https://www.meteo.pl/)
+
+Example [https://www.meteo.pl/](https://www.meteo.pl/)
+
+
+
+
+
 
