@@ -61,6 +61,18 @@ Example [https://www.meteo.pl/](https://www.meteo.pl/)
 
 Link to file example [Additional information](reference.md)
 
+### Images
+
+#### External 
+
+![random image](https://picsum.photos/200)
+
+#### Internal 
+
+![bread](bread1.jpg)
+
+
+
 
 
 
