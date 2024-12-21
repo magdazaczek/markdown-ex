@@ -73,9 +73,9 @@ Effective task management ensures that your project stays on track, within scope
 
 ---
 
-## Tracking Progress
+## Tracking Progress 
 
-### Step 9: Update Task Status
+### Step 9: Update Task Status 
 1. Navigate to the **Task** tab on the ribbon.
 2. Use the **Mark on Track** button to update task progress as "On Track."
 3. To specify progress:
